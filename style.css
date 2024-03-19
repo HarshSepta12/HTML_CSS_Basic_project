@@ -1,0 +1,78 @@
+body{
+    background-color: #faeaae;
+}
+ .parent{
+    width: 1100px;
+    height: 1900px;
+    background-color: white;
+    margin-left:100px ;
+    border-radius: 2%;
+ }
+.image img{
+    width: 900px;
+    height: 450px;
+    border-radius: 2%;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.parent h1{
+    font-size: 40px;
+    margin-left: 130px;
+}
+.parent p{
+    width: 800px;
+    font-size: 20px;
+    margin-left: 130px;
+}
+.parent .prep{
+    width: 900px;
+    margin-left: 90px;
+    margin-top: 60px;
+    background-color: rgba(97, 57, 64,.06);
+    
+}
+.parent .prep li{
+    line-height: 30px;
+    margin-left: 150px;
+}
+.parent .prep h3{
+    color: pink;
+    margin-left: 150px;
+}
+.parent hr{
+    width: 950px;
+
+}
+.parent .ins h2{
+    color: brown;
+}
+.parent .ins {
+    margin-left: 120px;
+}
+.parent .ins li{
+    line-height: 30px;
+}
+.parent .nutri{
+    margin-left: 130px;
+}
+.parent .nutri p{
+    margin-left: 5px;
+}
+.parent .nutri h4{
+    display: inline-block;
+    color: brown;
+    /* margin: */
+}
+.parent .nutri h2{
+    color: brown;
+}
+.parent .nutri h4,span{
+    margin-left: 150px;
+    font-size: 17px;
+}
+.parent .nutri span{
+    color: brown;
+}
+.parent .nutri  #mar{
+    margin-left: 180px;
+}
